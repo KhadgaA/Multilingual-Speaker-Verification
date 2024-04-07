@@ -19,29 +19,29 @@ These sentences are longer and have a more balanced mix of Hindi and English wor
 
 ## Language Group 2: Hindi, English & Marathi (Mixed)
 
-3. **"मला  weekend  वर  trekking  ला जायचंय, would you like to join?" (I want to go trekking on the weekend, would you like to join?)**
-4. **"मी  shopping  मालातून बाहेर पडत आहे, तुम्हाला काही हवंय का?" (I'm leaving the shopping mall, do you need anything?)**
-5. **"मी  office  मधून थोडा late होणार आहे,  dinner  करून ठेवायचं का?" (I'll be a bit late from the office, should I keep dinner ready?)**
-6. **"आज  traffic  काफी जास्त आहे,  station  पहोंचायला  late  होणार." (The traffic is really bad today, I'll be late to reach the station.)**
-7. **"आपण  weekend  वर  picnic  ला जाऊया का?  weather  पण छान आहे." (Should we go for a picnic on the weekend? The weather is also good.)**
+1. **"मला  weekend  वर  trekking  ला जायचंय, would you like to join?" (I want to go trekking on the weekend, would you like to join?)**
+2. **"मी  shopping  मालातून बाहेर पडत आहे, तुम्हाला काही हवंय का?" (I'm leaving the shopping mall, do you need anything?)**
+3. **"मी  office  मधून थोडा late होणार आहे,  dinner  करून ठेवायचं का?" (I'll be a bit late from the office, should I keep dinner ready?)**
+4. **"आज  traffic  काफी जास्त आहे,  station  पहोंचायला  late  होणार." (The traffic is really bad today, I'll be late to reach the station.)**
+5. **"आपण  weekend  वर  picnic  ला जाऊया का?  weather  पण छान आहे." (Should we go for a picnic on the weekend? The weather is also good.)**
 
 -------------------------------------------------------------
 ## Language Group 3: Hindi, English & Telugu (Mixed)
 
 1. **"ఈ వారాంతం  movie  చూడాలని ఉంది, what do you suggest?" (I feel like watching a movie this weekend, what do you suggest?)**
 2. **"నేను  coffee  shop  కి వెళ్తున్నాను, anything you need?" (I'm going to the coffee shop, anything you need?)**
-4. **"నేను  shopping  మॉल  కి వెళ్తున్నాను,  you want to join?" (I'm going to the shopping mall, you want to join?)**
-5. **"నేను  office  work  తో  busy  గా ఉన్నాను, can you help me with this?" (I'm busy with office work, can you help me with this?)**
-6. **"ఈ రోజు  traffic  చాలా ఎక్కువగా ఉంది, we might be late." (The traffic is very heavy today, we might be late.)**
+3. **"నేను  shopping  మॉल  కి వెళ్తున్నాను,  you want to join?" (I'm going to the shopping mall, you want to join?)**
+4. **"నేను  office  work  తో  busy  గా ఉన్నాను, can you help me with this?" (I'm busy with office work, can you help me with this?)**
+5. **"ఈ రోజు  traffic  చాలా ఎక్కువగా ఉంది, we might be late." (The traffic is very heavy today, we might be late.)**
 
 ---------------------------------------------------------------
 
 ## Language Group 4: Hindi, English & Bengali (Mixed)
 
 1. **"আজকে थोड़ा  chill  মারা যাক, what do you say?" (I feel like relaxing a bit today, what do you say?)**
-3. **"আমি  weekend  এ  trekking  এ যেতে চাই,  join  করতে চাও?" (I want to go trekking on the weekend, do you want to join?)**
-5. **"আমি  office  থেকে একটু  late  হয়ে যাব,  dinner  রেডি করে রাখব কি?" (I'll be a bit late from the office, should I keep dinner ready?)**
-8. **"আমি জানি না  birthday party  টার জন্য কি পরব,  আপনার কি কোন  idea  আছে?" (I don't know what to wear for the birthday party, do you have any ideas?)**
-10. **"আমি শুনেছি  restaurant  টা খুব ভাল,  try  করে দেখা যাক কি?" (I heard that restaurant is very good, should we try it out?)**
+2. **"আমি  weekend  এ  trekking  এ যেতে চাই,  join  করতে চাও?" (I want to go trekking on the weekend, do you want to join?)**
+3. **"আমি  office  থেকে একটু  late  হয়ে যাব,  dinner  রেডি করে রাখব কি?" (I'll be a bit late from the office, should I keep dinner ready?)**
+4. **"আমি জানি না  birthday party  টার জন্য কি পরব,  আপনার কি কোন  idea  আছে?" (I don't know what to wear for the birthday party, do you have any ideas?)**
+5. **"আমি শুনেছি  restaurant  টা খুব ভাল,  try  করে দেখা যাক কি?" (I heard that restaurant is very good, should we try it out?)**
 
 
