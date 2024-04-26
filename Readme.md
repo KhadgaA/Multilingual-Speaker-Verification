@@ -2,7 +2,7 @@
 
 The following work was done as part of the minor project for the course CSL7770: Speech Understanding
 
-The project was done as a team with the help of [Khadga Jyoth Alli](https://github.com/KhadgaA), [Manish Vutkoori](https://github.com/ManishHyd), and [Bikram Majhi] (https://github.com/bikrammajhi). The project's main aim is to use classical speech processing techniques paired with classical machine learning models to recognize the speaker based on their voice sample correctly. However the main crux of the project lies on the dataset used. To achieve our goal of multilingual speaker identification and verification we need a robust dataset which represesnts real life sceneriaos, like how most of us are bilingual and we subconciously mix two languages together while speaking, this way of speaking feels natural to most of us, some examples are provided below:
+The project was done as a team with the help of [Khadga Jyoth Alli](https://github.com/KhadgaA), [Manish Vutkoori](https://github.com/ManishHyd), and [Bikram Majhi]((https://github.com/bikrammajhi)) . The project's main aim is to use classical speech processing techniques paired with classical machine learning models to recognize the speaker based on their voice sample correctly. However the main crux of the project lies on the dataset used. To achieve our goal of multilingual speaker identification and verification we need a robust dataset which represesnts real life sceneriaos, like how most of us are bilingual and we subconciously mix two languages together while speaking, this way of speaking feels natural to most of us, some examples are provided below:
 
 > ```
 > 1. मुझे  birthday party  के लिए क्या पहनना चाहिए, I can't decide!
