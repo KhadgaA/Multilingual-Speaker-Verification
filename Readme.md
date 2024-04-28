@@ -1,6 +1,7 @@
 
 
 # Multilingual Speaker Identification and Verification
+Gradio Link : [Link](https://huggingface.co/spaces/KhadgaA/Multilingual-Speaker-Verification)
 
 The following work was done as part of the minor project for the course CSL7770: Speech Understanding
 
